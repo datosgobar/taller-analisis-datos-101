@@ -3,12 +3,11 @@ Una introducción al análisis de datos con Python - PyconAR 2016.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Setting up!](#setting-up)
 - [Temas del taller](#temas-del-taller)
 - [Otros recursos](#otros-recursos)
-  - [APIs](#apis)
+  - [APIs de datos](#apis-de-datos)
   - [Portales de Datos](#portales-de-datos)
     - [Argentina: nivel nacional](#argentina-nivel-nacional)
     - [Argentina: nivel provincial](#argentina-nivel-provincial)
@@ -37,7 +36,7 @@ git clone https://github.com/datosgobar/taller-analisis-datos-101.git
 pip install -r requirements.txt
 ```
 
-## Temas del taller
+## Outline
 
 1. Instalación de recursos (10')
 2. Presentación (20/30')
@@ -49,6 +48,8 @@ pip install -r requirements.txt
     * Abrir el notebook [1 - Introducción a pandas + numpy + matplotlib](1 - Introducción a pandas + numpy + matplotlib.ipynb)
 5. Ejemplo: Análisis de datos agrícolas (50')
     * Abrir el notebook [2 - Análisis de datos agrícolas](2 - Análisis de datos agrícolas.ipynb)
+
+Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](Precios internacionales de cultivos (COMTRADE vs. WB).ipynb)
 
 ## Otros recursos
 
