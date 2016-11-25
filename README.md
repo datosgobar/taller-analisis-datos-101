@@ -97,8 +97,11 @@ Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://
 * [`pandas`](http://pandas.pydata.org/): Estructuras y herramientas para análisis de datos en Python.
 * [`geopandas`](http://geopandas.org/): Extiende `pandas` con funcionalidades geoespaciales.
 * [`numpy`](http://www.numpy.org/): Objetos y estructuras para computación científica en Python.
+* [`scipy`](https://www.scipy.org/): Herramientas de computación científica en Python.
 * [`matplotlib`](http://matplotlib.org/): Gráficos en Python.
 * [`scikit-learn`](http://scikit-learn.org/): Machine learning en Python.
+* [`seaborn`](http://seaborn.pydata.org/): Estadística y visualización en Python.
+* [`statsmodels`](http://www.statsmodels.org/): Modelos y tests estadísticos en Python.
 
 ## Herramientas usadas en el taller
 
