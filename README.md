@@ -10,6 +10,10 @@ Una introducción al análisis de datos con Python - PyconAR 2016.
 - [Otros recursos](#otros-recursos)
   - [APIs](#apis)
   - [Portales de Datos](#portales-de-datos)
+    - [Argentina: nivel nacional](#argentina-nivel-nacional)
+    - [Argentina: nivel provincial](#argentina-nivel-provincial)
+    - [Argentina: nivel municipal](#argentina-nivel-municipal)
+    - [Resto del mundo](#resto-del-mundo)
   - [Librerías](#librer%C3%ADas)
 - [Herramientas usadas en el taller](#herramientas-usadas-en-el-taller)
 - [Duración recomendada](#duraci%C3%B3n-recomendada)
@@ -20,7 +24,7 @@ Para seguir el taller te recomendamos que sigas las instrucciones de instalació
 
 ## Setting up!
 
-Si estás dispuesto a cambiar tu instalación de python (o todavía no tenés una!) te recomendamos que instales el paquete [Anaconda](https://www.continuum.io/downloads). Ofrece un entorno preparado para hacer análisis de datos con python y ya viene con **dependencias pre-instaladas** para la mayoría de los paquetes que se usan.
+Si estás dispuesto a cambiar tu instalación de python (o todavía no tenés una!) te recomendamos que instales la distro [Anaconda](https://www.continuum.io/downloads). Ofrece un entorno preparado para hacer análisis de datos con python y ya viene con **dependencias pre-instaladas** para un montón de paquetes.
 
 Si no tenés Anaconda y usás Ubuntu:
 
@@ -37,15 +41,20 @@ pip install -r requirements.txt
 
 1. Instalación de recursos (10')
 2. Presentación (20/30')
+    * Ver [presentación institucional](https://docs.google.com/presentation/d/e/2PACX-1vTGwc8R7xbAiZma4B1-iOiYoUslUZp27Y7TNE5zyjClWIF5CISCQI6kaYBL0_5513RecmBgB0pd9b1X/pub?start=false&loop=false&delayms=3000)
+    * Ver [landing del equipo de Datos](https://datosgobar.github.io/)
 3. Introducción a Jupyter ("hola mundo") (20')
+    * Abrir el notebook [0 - Introducción a Jupyter](0 - Introducción a Jupyter.ipynb)
 4. Introducción a pandas + numpy + matplotlib (10')
+    * Abrir el notebook [1 - Introducción a pandas + numpy + matplotlib](1 - Introducción a pandas + numpy + matplotlib.ipynb)
 5. Ejemplo: Análisis de datos agrícolas (50')
+    * Abrir el notebook [2 - Análisis de datos agrícolas](2 - Análisis de datos agrícolas.ipynb)
 
 ## Otros recursos
 
-### APIs
+### APIs de datos
 
-* [COMTRADE](https://comtrade.un.org/data/doc/api/bulk/): API con datos de comercio exterior de Naciones Unidas.
+* [COMTRADE](https://comtrade.un.org/data/doc/api/bulk/): API con datos de comercio exterior, mantenida por Naciones Unidas.
 * [Banco Mundial](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation): API con indicadores de desarrollo de todo el mundo mantenida por el Banco Mundial.
 * [FRED](https://research.stlouisfed.org/docs/api/): API con datos estadísticos y económicos principalmente de Estados Unidos pero también del mundo, mantenida por la Reserva Federal de Estados Unidos.
 
