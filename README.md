@@ -43,13 +43,13 @@ pip install -r requirements.txt
     * Ver [presentación institucional](https://docs.google.com/presentation/d/e/2PACX-1vTGwc8R7xbAiZma4B1-iOiYoUslUZp27Y7TNE5zyjClWIF5CISCQI6kaYBL0_5513RecmBgB0pd9b1X/pub?start=false&loop=false&delayms=3000)
     * Ver [landing del equipo de Datos](https://datosgobar.github.io/)
 3. Introducción a Jupyter ("hola mundo") (20')
-    * Abrir el notebook [0 - Introducción a Jupyter](0 - Introducción a Jupyter.ipynb)
+    * Abrir el notebook [0 - Introducción a Jupyter](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/0%20-%20Introducci%C3%B3n%20a%20Jupyter.ipynb)
 4. Introducción a pandas + numpy + matplotlib (10')
-    * Abrir el notebook [1 - Introducción a pandas + numpy + matplotlib](1 - Introducción a pandas + numpy + matplotlib.ipynb)
+    * Abrir el notebook [1 - Introducción a pandas + numpy + matplotlib](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/1%20-%20Introducci%C3%B3n%20a%20pandas%20%2B%20numpy%20%2B%20matplotlib.ipynb)
 5. Ejemplo: Análisis de datos agrícolas (50')
-    * Abrir el notebook [2 - Análisis de datos agrícolas](2 - Análisis de datos agrícolas.ipynb)
+    * Abrir el notebook [2 - Análisis de datos agrícolas](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/2%20-%20An%C3%A1lisis%20de%20datos%20agr%C3%ADcolas.ipynb)
 
-Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](Precios internacionales de cultivos (COMTRADE vs. WB).ipynb)
+Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/Precios%20internacionales%20de%20cultivos%20(COMTRADE%20vs.%20WB).ipynb)
 
 ## Otros recursos
 
