@@ -49,7 +49,7 @@ pip install -r requirements.txt
 5. Ejemplo: Análisis de datos agrícolas (50')
     * Abrir el notebook [2 - Análisis de datos agrícolas](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/2%20-%20An%C3%A1lisis%20de%20datos%20agr%C3%ADcolas.ipynb)
 
-Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/Precios%20internacionales%20de%20cultivos%20(COMTRADE%20vs.%20WB).ipynb)
+Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://github.com/datosgobar/taller-analisis-datos-101/blob/master/Precios%20internacionales%20de%20cultivos%20(COMTRADE%20vs.%20WB).ipynb) podés ver cómo comparar el precio de un cultivo calculado con datos de COMTRADE y los precios de una base del Banco Mundial, usando sus APIs.
 
 ## Otros recursos
 
