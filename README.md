@@ -57,7 +57,9 @@ Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://
 
 * [COMTRADE](https://comtrade.un.org/data/doc/api/bulk/): API con datos de comercio exterior, mantenida por Naciones Unidas.
 * [Banco Mundial](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation): API con indicadores de desarrollo de todo el mundo mantenida por el Banco Mundial.
-* [FRED](https://research.stlouisfed.org/docs/api/): API con datos estadísticos y económicos principalmente de Estados Unidos pero también del mundo, mantenida por la Reserva Federal de Estados Unidos.
+* [FRED](https://research.stlouisfed.org/docs/api/): API con series de tiempo estadísticas y económicas principalmente de Estados Unidos pero también del mundo, mantenida por la Reserva Federal de Estados Unidos.
+* [Quandl](https://www.quandl.com/docs/api): API que da acceso a una lista de bases de datos de series de tiempo, principalmente económicas. Algunas son gratuitas y otras pagas.
+* [OECD Data](https://data.oecd.org/api/sdmx-json-documentation/): API de las bases de datos de la Organización para la Cooperación y el Desarrollo Económico.
 
 ### Portales de Datos
 
