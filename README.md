@@ -105,12 +105,18 @@ Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://
 * [`seaborn`](http://seaborn.pydata.org/): Estadística y visualización en Python.
 * [`statsmodels`](http://www.statsmodels.org/): Modelos y tests estadísticos en Python.
 
+## Datos usados en el taller
+
+* [Shapefile provincias (INDEC)](http://www.indec.gov.ar/ftp/cuadros/territorio/codgeo/Codgeo_Pais_x_prov_datos.zip)
+* [Shapefile departamentos (INDEC)](http://www.indec.gov.ar/ftp/cuadros/territorio/codgeo/Codgeo_Pais_x_dpto_con_datos.zip)
+* [Estimaciones de producción de cultivos (MAGYP)](https://datos.magyp.gob.ar/reportes.php?reporte=Estimaciones)
+* [Valores y cantidades de comercio exterior (API de COMTRADE)](https://comtrade.un.org/data/doc/api/bulk/)
+* [Precios internacionales de cultivos (API del Banco Mundial)](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
+
 ## Herramientas usadas en el taller
 
 * [Anaconda](https://www.continuum.io/downloads) - Nuestra distro de python para análisis de datos.
 * [Jupyter](http://jupyter.org/) - El notebook para ejecutar código dinámicamente.
-* [API de COMTRADE](https://comtrade.un.org/data/doc/api/bulk/)
-* [API del Banco Mundial](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-api-documentation)
 * [DocToc](https://github.com/thlorenz/doctoc) - Para la tabla de contenidos
 
 ## Duración recomendada
