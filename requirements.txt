@@ -2,3 +2,6 @@ pandas
 requests
 matplotlib
 jupyter
+scipy
+shapely
+geopandas
