@@ -3,9 +3,8 @@ Una introducción al análisis de datos con Python - PyconAR 2016.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 - [Setting up!](#setting-up)
-- [Temas del taller](#temas-del-taller)
+- [Outline](#outline)
 - [Otros recursos](#otros-recursos)
   - [APIs de datos](#apis-de-datos)
   - [Portales de Datos](#portales-de-datos)
@@ -14,6 +13,7 @@ Una introducción al análisis de datos con Python - PyconAR 2016.
     - [Argentina: nivel municipal](#argentina-nivel-municipal)
     - [Resto del mundo](#resto-del-mundo)
   - [Librerías](#librer%C3%ADas)
+- [Datos usados en el taller](#datos-usados-en-el-taller)
 - [Herramientas usadas en el taller](#herramientas-usadas-en-el-taller)
 - [Duración recomendada](#duraci%C3%B3n-recomendada)
 
