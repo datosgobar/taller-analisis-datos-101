@@ -27,7 +27,7 @@ Si estás dispuesto a cambiar tu instalación de python (o todavía no tenés un
 
 Si no tenés Anaconda y usás Ubuntu:
 
-`sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran libgeos-dev`
+`sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran libgeos-dev ffmpeg`
 
 Después clonate el repo e instalá las dependencias:
 
