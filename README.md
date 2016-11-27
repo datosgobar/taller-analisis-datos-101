@@ -121,4 +121,4 @@ Bonus track: En [Precios internacionales de cultivos (COMTRADE vs. WB)](https://
 
 ## Duración recomendada
 
-2 horas
+2 horas (modo expositivo) / 3 horas (modo taller)
